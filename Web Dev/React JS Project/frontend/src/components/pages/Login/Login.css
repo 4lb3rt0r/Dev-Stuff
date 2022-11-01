@@ -1,0 +1,34 @@
+body {
+    background: #90A5F0;
+}
+
+.bg {
+    background-image: url(../../../../public/images/bg-image.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+h3.page-title1 {
+    color: #3532A5;
+    font-weight: 750;
+    font-size: 30px;
+    font-style: bold;
+}
+
+h2.page-title3 {
+    color: #3532A5;
+    font-weight: 800;
+    font-size: 60px;
+    font-style: bold;
+}
+
+h1.page-title2 {
+    color: #3532A5;
+    font-weight: 800;
+    font-size: 75px;
+    font-style: bold;
+}
+
+.text-form {
+    font-family: 'Inter', sans-serif;
+}

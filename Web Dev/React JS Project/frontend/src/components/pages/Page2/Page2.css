@@ -1,0 +1,78 @@
+body {
+    background: #90A5F0;
+}
+
+nav {
+    background: #556FCC;
+}
+
+#bell {
+    border: none;
+}
+
+.form {
+    position: relative;
+}
+
+.form .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9CA3AF;
+}
+
+.form-input {
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 25px;
+    background-color: #C6D0F2;
+}
+
+.form-input:focus {
+    box-shadow: none;
+    border: none;
+}
+
+#search-icon {
+    border: none;
+}
+
+#profile-pic {
+    position: static;
+    margin-top: -35px;
+}
+
+.profile-pic {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.c-name {
+    margin-top: -50px;
+    width: auto;
+}
+
+.card h1 {
+    background-color: #869FF2;
+    color: #7A28FF;
+}
+
+.effect {
+    cursor: pointer;
+    transition: all ease-out 0.2s;
+}
+
+.effect:hover {
+    transform: scale(1.05);
+}
+
+.effect-btn {
+    cursor: pointer;
+    transition: all ease-out 0.2s;
+}
+
+.effect-btn:hover {
+    transform: scale(1.2);
+}
