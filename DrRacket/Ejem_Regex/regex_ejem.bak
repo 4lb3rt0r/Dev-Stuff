@@ -1,0 +1,5 @@
+#lang racket
+(define (hola st)
+  (if (regexp-match-exact? #rx"for" st)
+      (display "YES")
+      (display "NO")))

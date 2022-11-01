@@ -1,0 +1,42 @@
+int main(){
+       int nodes, edges, source, u, v, w;
+       cin >> nodes >> edges >> source;
+       Graph G(nodes);
+       for (int i=0; i<edges; i++){
+             cin >> u >> v >> w;
+             // Arco de u->v con un costo w
+             Edge edge1(v-1, w);
+             G[u-1].push_back(edge1);
+             // Arco de v->u con un costo w
+             Edge edge2(u-1, w);
+             G[v-1].push_back(edge2);
+       }
+       //print(G);
+       vector<int> distances = dijkstra(G, source-1);
+       cout << "Distancias: " << endl;
+       for (int i=0; i<nodes; i++){
+             if (i != source-1){
+                    cout << source << "-->" << (i+1) << " : ";
+                    if (distances[i] == INF){
+                           cout << "INF" << endl;
+                    }
+                    else{
+                           cout << distances[i] << endl;
+                    }
+             }
+       }
+}
+
+// Cantidad de nodos, cantidad de arcos, nodo origen
+// arcos punto origen punto destino y costo.
+/*
+5 8 1
+1 2 2
+1 3 12
+1 4 10
+2 3 9
+2 5 5
+3 4 6
+3 5 3
+4 5 7
+*/

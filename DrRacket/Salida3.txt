@@ -1,0 +1,24 @@
+TOKEN      TIPO
+b           Variable
+=           Asignación
+7           Entero
++           Suma
+8           Entero
+a           Variable
+=           Asignación
+32.4           Real
+*           Multiplicación
+(-8.6 - b)           Variable
+/           División
+6.1e-8           Real
+d           Variable
+=           Asignación
+a           Variable
+^           Potencia
+b           Variable
+//           Variable
+Esto           Variable
+es           Variable
+un           Variable
+comentario           Variable
+Cantidad de Tokens: 22

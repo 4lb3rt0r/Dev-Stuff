@@ -1,0 +1,11 @@
+Model Information:
+* title:	Among us
+* source:	https://sketchfab.com/3d-models/among-us-37549b3df7df4ec0b4996d89c9b07725
+* author:	Joel Maldoando (https://sketchfab.com/maldonadosalvadorjoel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Among us" (https://sketchfab.com/3d-models/among-us-37549b3df7df4ec0b4996d89c9b07725) by Joel Maldoando (https://sketchfab.com/maldonadosalvadorjoel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

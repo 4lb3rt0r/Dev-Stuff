@@ -1,0 +1,7 @@
+1 Bronco 15
+2 Golf_GTI 10
+3 Impreza_STI 12
+4 Mustang 5
+5 Camaro 7
+6 Challenger 9
+7 S3 6

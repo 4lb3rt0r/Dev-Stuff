@@ -1,0 +1,5 @@
+p Gloria 14 05 2010
+e Jorge 5 8 2000 ITC
+m Martha 4 1 1980 Letras
+p Pedro 15 9 1950
+e Hugo 8 4 1999 ISR
