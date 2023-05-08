@@ -25,62 +25,57 @@ Data Science, Web Development & Design, Data Bases, Videogame Development
   </tr>
   <tr>
     <td>3</td><td>
-      <img src="images/62e131df7fe3599fdd46ecb3.png" alt="Python logo" width="18" style="max-width:100%;"> / <img src="images/c-logo-A44DB3D53C-seeklogo.com.png" alt="Python logo" width="18" style="max-width:100%;"> Unity/C#
-    </td><td>Awesome</td>
+      <img src="images/62e131df7fe3599fdd46ecb3.png" alt="Python logo" width="18" style="max-width:100%;"> Unity/ <img src="images/c-logo-A44DB3D53C-seeklogo.com.png" alt="Python logo" width="15" style="max-width:100%;"> C#
+    </td><td>Unity projects I've coded with C#</td>
   </tr>
   <tr>
     <td>4</td><td>
       <img src="images/JavaScript-logo.png" alt="Python logo" width="18" style="max-width:100%;"> JavaScript
-    </td><td>Awesome</td>
+    </td><td>There are multiple projects, most of them of web development, that use JavaScript</td>
   </tr>
   <tr>
     <td>5</td><td>
       <img src="images/logo-html-5-512.png" alt="Python logo" width="18" style="max-width:100%;"> HTML
-    </td><td>Awesome</td>
+    </td><td>There are multiple projects, most of them of web development, that use HTML</td>
   </tr>
   <tr>
     <td>6</td><td>
       <img src="images/css-118-569410.png" alt="Python logo" width="20" style="max-width:100%;"> CSS
-    </td><td>Awesome</td>
+    </td><td>There are multiple projects, most of them of web development, that use CSS</td>
   </tr>
   <tr>
     <td>7</td><td>
       <img src="images/R (2).png" alt="Python logo" width="18" style="max-width:100%;"> React
-    </td><td>Awesome</td>
+    </td><td>Web part of a two-sided application for a doctor in React</td>
   </tr>
   <tr>
     <td>8</td><td>
       <img src="images/vue-9-logo-png-transparent-min.png" alt="Python logo" width="15" style="max-width:100%;"> Vue3
-    </td><td>Awesome</td>
+    </td><td>A Walmart web page clone in Vue3</td>
   </tr>
   <tr>
     <td>9</td><td>
       <img src="images/1758767.png" alt="Python logo" width="12" style="max-width:100%;"> Django
-    </td><td>Awesome</td>
+    </td><td>A project that is used to create and use predictive models with certain file inputs for CEMEX</td>
   </tr>
   <tr>
     <td>10</td><td>
       <img src="images/512px-Racket-logo.svg.png" alt="Python logo" width="18" style="max-width:100%;"> Scheme (Racket)
-    </td><td>Awesome</td>
+    </td><td>A syntax highlighter programmed in Racket/Scheme language</td>
   </tr>
   <tr>
     <td>11</td><td>
       <img src="images/R_logo.svg.png" alt="Python logo" width="18" style="max-width:100%;"> R
-    </td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>12</td><td>
-       Unity
-    </td><td>Awesome</td>
+    </td><td>Scripts for analyzing DNA data and more information in R</td>
   </tr>
   <tr>
     <td>13</td><td>
       <img src="images/pluginIcon.png" alt="Python logo" width="18" style="max-width:100%;"> Swi Prolog
-    </td><td>Awesome</td>
+    </td><td>Parallel programming using SWI PROLOG</td>
   </tr>
   <tr>
     <td>14</td><td>
       <img src="images/Matlab_Logo.png" alt="Python logo" width="18" style="max-width:100%;"> MATLAB
-    </td><td>Awesome</td>
+    </td><td>Scripts of different excercises and projects made in MATLAB</td>
   </tr>
 </table>
