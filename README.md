@@ -79,3 +79,6 @@ Data Science, Web Development & Design, Data Bases, Videogame Development
     </td><td>Scripts of different excercises and projects made in MATLAB</td>
   </tr>
 </table>
+
+### Note
+*Not all the projects contained in the previous table are in this repository, projects more structured and complex may be stored in another repositories or are private due to confidential or personal reasons.*
